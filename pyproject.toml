@@ -1,0 +1,49 @@
+# ==========================================
+# 1. Build System: บอก pip ว่าใช้เครื่องมือตัวไหนในการ build package
+# ==========================================
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+# ==========================================
+# 2. Project Metadata: รายละเอียดหลักของโปรเจกต์
+# ==========================================
+[project]
+name = "food_order_app"
+version = "0.1.0"
+description = "Web application for ordering food built with NiceGUI and SQLAlchemy"
+readme = "readme.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Jeeradate" }
+]
+
+# Library หลักที่จำเป็นในการรันโปรแกรม (Main Dependencies)
+dependencies = [
+    "nicegui>=1.4.0",
+    "sqlalchemy>=2.0.0",
+]
+
+# ==========================================
+# 3. Development Dependencies: เครื่องมือเสริมเฉพาะช่วงพัฒนา (ติดตั้งผ่าน pip install -e ".[dev]")
+# ==========================================
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "mypy>=1.0.0",
+]
+
+# ==========================================
+# 4. Entry Points / Console Scripts: สร้างคำสั่งลัดรันโปรแกรมใน Terminal (Optional)
+# ==========================================
+[project.scripts]
+food-app = "food_order_app.app:main"
+
+# ==========================================
+# 5. Tool Configurations: ตั้งค่าเครื่องมือพัฒนาต่างๆ ไว้ในไฟล์นี้ได้เลย
+# ==========================================
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
