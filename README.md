@@ -14,6 +14,7 @@ Food Order App เป็นระบบเว็บสำหรับบริ�
 - ทกสอบจนมั่นใจแล้วจึง Merging กับ Main Branch 
 - และเริ่มวงจร Git Branching & Merging Process ในรอบต่อๆ ไป
 - ไม่ได้ใช้ AI Agent เพราะผู้พัฒนาจะได้เรียนรู้ ภาษา Python ไปด้วย 
+- ความรู้ต่างๆ เก็บได้ที่ https://github.com/jeeradate/foodorderapp/blob/main/learning/PyWebApp/Welcome.md
 
 ## โครงสร้างข้อมูลหลัก
 

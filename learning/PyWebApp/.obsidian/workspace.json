@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "GIT_Github/GIT_Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "GIT_Github"
             }
           },
           {
@@ -43,16 +43,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NiceGUI/NiceGUI.md",
+                "file": "FoodOrderApp/Food order app learning road map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NiceGUI"
+              "title": "Food order app learning road map"
+            }
+          },
+          {
+            "id": "5db70b2855aad0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NiceGUI/NiceGUI.md",
+                "file": "Welcome.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -229,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NiceGUI/NiceGUI.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -259,18 +273,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3664f827d0f7298e",
+  "active": "5db70b2855aad0cd",
   "lastOpenFiles": [
-    "Welcome.md",
-    "NiceGUI/NiceGUI.md",
     "FoodOrderApp/FoodOrderApp.md",
-    "Python/Python.md",
-    "FoodOrderApp/Food order app learning road map.md",
-    "GIT_Github/Git Branching & Merging Process.md",
-    "FoodOrderApp/Update Knowledge base.md",
+    "Welcome.md",
     "FoodOrderApp/Todo.md",
+    "GIT_Github/GIT_Github.md",
+    "GIT_Github/Git Branching & Merging Process.md",
+    "FoodOrderApp/Food order app learning road map.md",
     "VSCode/VSCode.md",
     "SQLModel/SQLModel.md",
+    "NiceGUI/NiceGUI.md",
+    "Python/Python.md",
+    "FoodOrderApp/Update Knowledge base.md",
     "FoodOrderApp",
     "Python",
     "SQLModel",
@@ -292,7 +307,6 @@
     "To do to buy/คำถามถึง AI.md",
     "ดลตรี/ขลุ่ย/เพลงที่ใช้เรียน EWI.md",
     "AI/Python/เรียน Python.md",
-    "Idea/NiceGUI และ ตัวอย่าง.md",
     "FoodOrderDatabaseDesign.canvas",
     "แนวทางในการเรียน Python",
     "Resource/Pasted image 20260806090314.png",

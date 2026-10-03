@@ -2537,12 +2537,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 0
+        "line": 7,
+        "ch": 135
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 7,
+        "ch": 135
       }
     },
     "expandedKeys": []
@@ -2551,11 +2551,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 10,
         "ch": 0
       }
     },
@@ -2579,12 +2579,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 94
+        "line": 2,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 94
+        "line": 2,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -2599,6 +2599,62 @@
       "to": {
         "line": 2,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "SQLModel/SQLModel.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Python/Python.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "VSCode/VSCode.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "GIT_Github/GIT_Github.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 79
+      },
+      "to": {
+        "line": 2,
+        "ch": 79
       }
     },
     "expandedKeys": []
