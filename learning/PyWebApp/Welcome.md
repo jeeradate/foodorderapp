@@ -11,7 +11,7 @@
 ได้จัดเป็นหมวดหมู่ดังต่อไปนี้
 
 - [Welcome](Welcome.md)  คือหน้านี้ ซึ่งเป็นหน้าแรก หรือสารบันของทั้งหมด
-- [FoodOrderApp](FoodOrderApp/FoodOrderApp.md) บันทึกเกียวกับ โครงการ Food Order App
+- [FoodOrderApp](FoodOrderApp/FoodOrderApp.md) บันทึกเกียวกับ โครงการ Food Order App  แก้ [README](../../README.md) ที่นี่
 - [Python](Python/Python.md) ความรู้เกี่ยวกับ Python
 - [VSCode](VSCode/VSCode.md) เกี่ยวกับ VSCode หรือ IDE/Editor
 - [GIT_Github](GIT_Github/GIT_Github.md) การ Git และ Github 

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/PyWebApp/Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ],
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/PyWebApp/Welcome.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/PyWebApp/Welcome.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,9 +247,10 @@
   },
   "active": "6261089b3910a275",
   "lastOpenFiles": [
-    "README.md",
-    "learning/PyWebApp/FoodOrderApp/FoodOrderApp.md",
     "learning/PyWebApp/Welcome.md",
+    "README.md",
+    "learning/PyWebApp/FoodOrderApp/Todo.md",
+    "learning/PyWebApp/FoodOrderApp/FoodOrderApp.md",
     "playground/README.md",
     "food_order_app_logo.jpg",
     "learning/PyWebApp/SQLModel/SQLModel.md",
@@ -279,7 +280,6 @@
     "PWA/URL Routing.md",
     "ดลตรี/ขลุ่ย/พรปีใหม่.md",
     "AI/Python/Pyauto/Python and Library.md",
-    "PWA/SQLModel sample.md",
     "FoodOrderDatabaseDesign.canvas",
     "แนวทางในการเรียน Python",
     "Resource/Pasted image 20260806090314.png",
