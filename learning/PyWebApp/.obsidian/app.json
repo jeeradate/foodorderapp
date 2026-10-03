@@ -13,6 +13,6 @@
   "promptDelete": false,
   "showLineNumber": false,
   "readableLineLength": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true
 }

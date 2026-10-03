@@ -1,1 +1,1 @@
-[Welcome](Welcome.md)
+[Welcome](../Welcome.md)
