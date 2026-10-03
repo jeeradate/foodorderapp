@@ -2537,12 +2537,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 135
+        "line": 16,
+        "ch": 59
       },
       "to": {
-        "line": 7,
-        "ch": 135
+        "line": 16,
+        "ch": 59
       }
     },
     "expandedKeys": []
@@ -2649,12 +2649,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 79
+        "line": 1,
+        "ch": 85
       },
       "to": {
-        "line": 2,
-        "ch": 79
+        "line": 1,
+        "ch": 85
+      }
+    },
+    "expandedKeys": []
+  },
+  "GIT_Github/Git_Github_VSCode.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 2
+      },
+      "to": {
+        "line": 3,
+        "ch": 2
       }
     },
     "expandedKeys": []

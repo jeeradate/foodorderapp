@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "GIT_Github/GIT_Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "GIT_Github"
             }
           }
         ],
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "GIT_Github/GIT_Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "GIT_Github/GIT_Github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -275,16 +275,17 @@
   },
   "active": "5db70b2855aad0cd",
   "lastOpenFiles": [
-    "FoodOrderApp/FoodOrderApp.md",
-    "Welcome.md",
-    "FoodOrderApp/Todo.md",
-    "GIT_Github/GIT_Github.md",
     "GIT_Github/Git Branching & Merging Process.md",
+    "GIT_Github/GIT_Github.md",
+    "Welcome.md",
+    "GIT_Github/Git_Github_VSCode.md",
+    "Python/Python.md",
+    "FoodOrderApp/FoodOrderApp.md",
+    "FoodOrderApp/Todo.md",
     "FoodOrderApp/Food order app learning road map.md",
     "VSCode/VSCode.md",
     "SQLModel/SQLModel.md",
     "NiceGUI/NiceGUI.md",
-    "Python/Python.md",
     "FoodOrderApp/Update Knowledge base.md",
     "FoodOrderApp",
     "Python",
@@ -306,7 +307,6 @@
     "AI/Python/Gemini AI Studio API Key.md",
     "To do to buy/คำถามถึง AI.md",
     "ดลตรี/ขลุ่ย/เพลงที่ใช้เรียน EWI.md",
-    "AI/Python/เรียน Python.md",
     "FoodOrderDatabaseDesign.canvas",
     "แนวทางในการเรียน Python",
     "Resource/Pasted image 20260806090314.png",
