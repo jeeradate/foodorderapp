@@ -1,0 +1,31 @@
+{
+  "dailyNoteHeading": "Web Clips",
+  "weeklyNoteHeading": "",
+  "tags": "Clipper",
+  "timestampFormat": "HH:mm",
+  "dateFormat": "MM/DD/YY",
+  "dailyOpenOnWrite": false,
+  "useDailyNote": true,
+  "dailyPosition": "append",
+  "useWeeklyNote": false,
+  "weeklyPosition": "append",
+  "weeklyOpenOnWrite": false,
+  "dailyEntryTemplateLocation": "Template/t-clipper.md",
+  "weeklyEntryTemplateLocation": "",
+  "topicEntryTemplateLocation": "Template/t-clipper.md",
+  "topicPosition": "append",
+  "topicOpenOnWrite": false,
+  "markdownSettings": {
+    "h1": "##",
+    "h2": "##",
+    "h3": "###",
+    "h4": "####",
+    "h5": "#####",
+    "h6": "######"
+  },
+  "advanced": false,
+  "advancedStorageFolder": "clippings",
+  "captureComments": false,
+  "experimentalCanvas": false,
+  "experimentalBookmarkletComment": false
+}

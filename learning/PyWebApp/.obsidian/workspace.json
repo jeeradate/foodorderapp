@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "99f558cc250ad5e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cad2d648735320e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e470ac87938b7dea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FoodOrderApp/Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "f94babdc64f1f453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8b58cc39280e544",
+    "type": "split",
+    "children": [
+      {
+        "id": "1daac0c1e6058637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c27417155c2eeb8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6bd46d09fdcb1f46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c10d90b7292c995c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "url routing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d30edc7d9699e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "68f2775bcdc74e49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8361b303f1b8589c",
+        "type": "tabs",
+        "dimension": 38.306451612903224,
+        "children": [
+          {
+            "id": "8a3ca7355632986e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Idea/ไว้ส่งทาง Line.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ไว้ส่งทาง Line"
+            }
+          },
+          {
+            "id": "38fbca6fac708fb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4e9c46f113649841",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Idea/ไว้ส่งทาง Line.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ไว้ส่งทาง Line"
+            }
+          },
+          {
+            "id": "bf8438c36412384b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "28e5b970693bbecd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "d4cc7b5e5cc15c16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c94b6bb03270beeb",
+        "type": "tabs",
+        "dimension": 61.69354838709678,
+        "children": [
+          {
+            "id": "12638a77020186bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "f94babdc64f1f453",
+  "lastOpenFiles": [
+    "FoodOrderApp/Food order app learning road map.md",
+    "GIT_Github/Git Branching & Merging Process.md",
+    "FoodOrderApp/Update Knowledge base.md",
+    "FoodOrderApp/Todo.md",
+    "Welcome.md",
+    "FoodOrderApp/FoodOrderApp.md",
+    "VSCode/VSCode.md",
+    "SQLModel/SQLModel.md",
+    "NiceGUI/NiceGUI.md",
+    "Python/Python.md",
+    "FoodOrderApp",
+    "Python",
+    "SQLModel",
+    "GIT_Github",
+    "VSCode",
+    "NiceGUI",
+    "To do to buy/Git Branching & Merging Process.md",
+    "To do to buy/Todo.md",
+    "PWA/URL Routing.md",
+    "ดลตรี/ขลุ่ย/พรปีใหม่.md",
+    "AI/Python/Pyauto/Python and Library.md",
+    "PWA/SQLModel sample.md",
+    "PWA/Menu app note.md",
+    "PWA/การออกโปรแกรม Menu สั่งอาหาร.md",
+    "AI/Python/Pyauto/NiceGui.md",
+    "AI/Python/Pyauto/PyAuto ใช้ Python แทน Autohotkey.md",
+    "To do to buy/Food order app learning road map.md",
+    "AI/Python/Gemini AI Studio API Key.md",
+    "To do to buy/คำถามถึง AI.md",
+    "ดลตรี/ขลุ่ย/เพลงที่ใช้เรียน EWI.md",
+    "AI/Python/เรียน Python.md",
+    "Idea/NiceGUI และ ตัวอย่าง.md",
+    "FoodOrderDatabaseDesign.canvas",
+    "แนวทางในการเรียน Python",
+    "Resource/Pasted image 20260806090314.png",
+    "AI/Python/Pyauto",
+    "Python/PyScript",
+    "Python",
+    "first canvas.canvas",
+    "Resource/การคำนวนจำนวนแผง.jpg",
+    "Resource/Pasted image 20260513105152.png",
+    "Resource/Pasted image 20260126191929.png",
+    "Resource/Pasted image 20260123110942.png",
+    "Resource/WhatsApp Image 2025-12-08 at 05.05.05_0e21db5f.jpg",
+    "Resource/El condor pasa -If I could 2of2.jpg",
+    "Resource/El condor pasa -If I could 1of2.jpg",
+    "Resource/Yesterday.jpg",
+    "Resource/275936.jpg",
+    "Untitled 1.canvas",
+    "Canvas.canvas",
+    "New Canvas.canvas"
+  ]
+}

@@ -1,0 +1,2578 @@
+{
+  "PWA/Svelte Note.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 28
+      },
+      "to": {
+        "line": 6,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "AutoHotKey.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/PWA learning.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 11
+      },
+      "to": {
+        "line": 4,
+        "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Sveltekit & TailwinCSS.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 39
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/JavaScript/JavaScript Note.md": {
+    "scroll": 16.257575757575758,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 26
+      },
+      "to": {
+        "line": 29,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Google sheet & Sveltekit.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/แผนการตลาดของ Menu.md": {
+    "scroll": 354.4526359143328,
+    "cursor": {
+      "from": {
+        "line": 248,
+        "ch": 84
+      },
+      "to": {
+        "line": 248,
+        "ch": 84
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/เป้าหมายสุขภาพ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 3
+      },
+      "to": {
+        "line": 1,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/ความแข็งแรง.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/ความแข็งแรงของร่างกาย.md": {
+    "scroll": 12.499053030303031,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 69
+      },
+      "to": {
+        "line": 26,
+        "ch": 69
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/แหล่งเรียนรู้ Svelte ฟรี.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/FreeCAD Note.md": {
+    "scroll": 20.280433711187776,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 42
+      },
+      "to": {
+        "line": 28,
+        "ch": 42
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/รถไฟฟ้า.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Personal/ทำด่วน.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 1
+      },
+      "to": {
+        "line": 0,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/Todo.md": {
+    "scroll": 0.5189398523538666,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 30
+      },
+      "to": {
+        "line": 7,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/Todo (conflict 2025-09-21-11-30-56).md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 14
+      },
+      "to": {
+        "line": 5,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "OpenClaw.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/FreeCAD for 3D printing.md": {
+    "scroll": 24.5234375,
+    "cursor": {
+      "from": {
+        "line": 144,
+        "ch": 0
+      },
+      "to": {
+        "line": 144,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/Drawing app.md": {
+    "scroll": 3.0651340996168583,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/FreeCAD macro.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/VSCode.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 21
+      },
+      "to": {
+        "line": 5,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "OpenClaw note.md": {
+    "scroll": 62.8,
+    "cursor": {
+      "from": {
+        "line": 67,
+        "ch": 34
+      },
+      "to": {
+        "line": 67,
+        "ch": 34
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/Open LLM note.md": {
+    "scroll": 134.015625,
+    "cursor": {
+      "from": {
+        "line": 135,
+        "ch": 69
+      },
+      "to": {
+        "line": 135,
+        "ch": 69
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/มีสติ กับ เสียสติ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/Roadmap 10 ข้อ.md": {
+    "scroll": 57.028125,
+    "cursor": {
+      "from": {
+        "line": 93,
+        "ch": 0
+      },
+      "to": {
+        "line": 93,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Learn/Python/เรียน Python.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 24
+      },
+      "to": {
+        "line": 9,
+        "ch": 24
+      }
+    },
+    "expandedKeys": []
+  },
+  "Learn/Python/Python for AI Note.md": {
+    "scroll": 122.10432330827068,
+    "cursor": {
+      "from": {
+        "line": 122,
+        "ch": 56
+      },
+      "to": {
+        "line": 122,
+        "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/ต่อมลูกหมาก/การรักษาต่อมลูกหมากโต.md": {
+    "scroll": 29.327445652173914,
+    "cursor": {
+      "from": {
+        "line": 37,
+        "ch": 19
+      },
+      "to": {
+        "line": 37,
+        "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/ขลุ่ย/เพลงที่ใช้เรียน EWI (conflict 2025-05-09-18-32-07).md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 16
+      },
+      "to": {
+        "line": 9,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/ขลุ่ย/รักฉันนานๆ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 39
+      },
+      "to": {
+        "line": 0,
+        "ch": 64
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/LM Studio.md": {
+    "scroll": 47.83484299516908,
+    "cursor": {
+      "from": {
+        "line": 97,
+        "ch": 66
+      },
+      "to": {
+        "line": 97,
+        "ch": 66
+      }
+    },
+    "expandedKeys": []
+  },
+  "mcp/deeplink.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python for AI Note.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 14
+      },
+      "to": {
+        "line": 1,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/ส่องกล้องครั้งแรกในชีวิต.md": {
+    "scroll": 33.2199604184337,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 43,
+        "ch": 73
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/โซล่าเซลล์.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 28
+      },
+      "to": {
+        "line": 0,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/โซลาร์เซลล์.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 55
+      },
+      "to": {
+        "line": 5,
+        "ch": 55
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/โซลาร์เซลล์ solar cell.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 30,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/โซล่าเซลล์ Solar cell.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 11
+      },
+      "to": {
+        "line": 3,
+        "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "Tiktok.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 48
+      },
+      "to": {
+        "line": 30,
+        "ch": 48
+      }
+    },
+    "expandedKeys": []
+  },
+  "Python for Algo Trading.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 86
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Python for AI Note.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 22
+      },
+      "to": {
+        "line": 7,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Jupyter Notebook.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 8
+      },
+      "to": {
+        "line": 3,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/วัดการใช้ไฟฟ้าด้วย SmartLife.md": {
+    "scroll": 54.44927536231884,
+    "cursor": {
+      "from": {
+        "line": 56,
+        "ch": 0
+      },
+      "to": {
+        "line": 56,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/LLM Wiki.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 12
+      },
+      "to": {
+        "line": 1,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "Learn/templater.md": {
+    "scroll": 6.956521739130435,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/Clip web pages.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Learn/Obsidian study note.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Template/t-Note header.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Template/t-Diary.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/2026-04-17.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/The War of Art.md": {
+    "scroll": 132.91762767710048,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 53
+      },
+      "to": {
+        "line": 9,
+        "ch": 53
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/Clip web pages 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/2Clip.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/Clip web pages 2.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/Facebook.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/W3Schools.com.md": {
+    "scroll": 2.5398936170212765,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 115
+      },
+      "to": {
+        "line": 7,
+        "ch": 115
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/เรียน Python.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 60,
+        "ch": 30
+      },
+      "to": {
+        "line": 60,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "Template/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Template/t-clipper.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 3
+      },
+      "to": {
+        "line": 3,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/Obsidian Clipper Docs.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 227
+      },
+      "to": {
+        "line": 7,
+        "ch": 227
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/2026-04-18.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/piano.md": {
+    "scroll": 237.1668244949495,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 226
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/An introduction javascript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 51
+      },
+      "to": {
+        "line": 32,
+        "ch": 51
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/JavaScript learning map.md": {
+    "scroll": 10.404448105436574,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/js map.md": {
+    "scroll": 41.906919275123556,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 4
+      },
+      "to": {
+        "line": 10,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/Untitled.md": {
+    "scroll": 4.428191489361702,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/ทำสิ่งยาก.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 104
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/เรียน AI.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 18
+      },
+      "to": {
+        "line": 0,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clippings/Sharpen your thinking.md": {
+    "scroll": 59.36914505472833,
+    "cursor": {
+      "from": {
+        "line": 59,
+        "ch": 0
+      },
+      "to": {
+        "line": 59,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "รถส่วนบุคคล.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 194
+      },
+      "to": {
+        "line": 24,
+        "ch": 194
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/Stoic Habit.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/ฺDigital Bran Fog.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 29
+      },
+      "to": {
+        "line": 8,
+        "ch": 29
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/ทำตัวให้โชคดี.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/โชค... ไม่ใช่เรื่องบังเอิญ แต่คือการเตรียมพร้อม.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/พลังสำคัญ ในการฝึกสมอง ให้โชคดี.md": {
+    "scroll": 0.15444015444015444,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 180
+      },
+      "to": {
+        "line": 30,
+        "ch": 180
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/6Kwพร้อมแบต 75000 บาท.md": {
+    "scroll": 107.71130952380952,
+    "cursor": {
+      "from": {
+        "line": 178,
+        "ch": 208
+      },
+      "to": {
+        "line": 178,
+        "ch": 208
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/Casio.md": {
+    "scroll": 37.31702898550725,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 319
+      },
+      "to": {
+        "line": 29,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Roadmap for Algorithmic trading.md": {
+    "scroll": 2.8019323671497585,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 19
+      },
+      "to": {
+        "line": 12,
+        "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "ข้อมูลจากข่าว (Sentiment Analysis).md": {
+    "scroll": 1.0338164251207729,
+    "cursor": {
+      "from": {
+        "line": 39,
+        "ch": 266
+      },
+      "to": {
+        "line": 39,
+        "ch": 266
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/สอน Obsidian.md": {
+    "scroll": 12.14168039538715,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 37
+      },
+      "to": {
+        "line": 19,
+        "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/Infliximab.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/โรคสะเก็ดเงิน.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Pasted image 20230513131702.png.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/เขียนบทความ.md": {
+    "scroll": 7.7424503882657465,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 21
+      },
+      "to": {
+        "line": 20,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/การคำนวณหาจำนวนแผนตามอุณหภูมิ.md": {
+    "scroll": 39.91847826086956,
+    "cursor": {
+      "from": {
+        "line": 56,
+        "ch": 113
+      },
+      "to": {
+        "line": 56,
+        "ch": 113
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/สามล้อกระบะไฟฟ้า EV ProShop.md": {
+    "scroll": 13.341485507246377,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/การเรียนให้สำเร็จ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 449
+      },
+      "to": {
+        "line": 31,
+        "ch": 449
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Python full cause note.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 111
+      },
+      "to": {
+        "line": 1,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/เรื่องบันเทิง.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 35
+      },
+      "to": {
+        "line": 3,
+        "ch": 35
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/ROI รถไฟฟ้า.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 5
+      },
+      "to": {
+        "line": 19,
+        "ch": 5
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/หากคิดจะซื้อ รถ EV.md": {
+    "scroll": 52.38912855910267,
+    "cursor": {
+      "from": {
+        "line": 63,
+        "ch": 545
+      },
+      "to": {
+        "line": 63,
+        "ch": 545
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/เบอร์ฉุกเฉิน.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 18
+      },
+      "to": {
+        "line": 62,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/แจ้งเหตุ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 49
+      },
+      "to": {
+        "line": 8,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/AI.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 42
+      },
+      "to": {
+        "line": 5,
+        "ch": 42
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/NotebookLM และ GEM.md": {
+    "scroll": 4.355978260869565,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 77
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/ปล่อยวาง.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/พุทธศาสนาสอนอะไร.md": {
+    "scroll": 78.60224331320103,
+    "cursor": {
+      "from": {
+        "line": 89,
+        "ch": 28
+      },
+      "to": {
+        "line": 89,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/Obsidian.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home/กังหันลม.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/ทุกวันนีอยู่ทำไม 2025-12-02.md": {
+    "scroll": 6.898550724637682,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Personal/JK.md": {
+    "scroll": 19.308876811594203,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 352
+      },
+      "to": {
+        "line": 24,
+        "ch": 352
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/ชีวิตหลังเกษีนณ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 38
+      },
+      "to": {
+        "line": 2,
+        "ch": 38
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/ชีวิตหลังเกษียณ.md": {
+    "scroll": 25.731884057971016,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 20
+      },
+      "to": {
+        "line": 13,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/ขลุ่ย/เพลงที่ใช้เรียน EWI.md": {
+    "scroll": 0.5173745173745173,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/ขลุ่ย/พรปีใหม่.md": {
+    "scroll": 1.1014492753623188,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Settrade open API.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 65
+      },
+      "to": {
+        "line": 1,
+        "ch": 65
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/TinyLM.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 60
+      },
+      "to": {
+        "line": 1,
+        "ch": 60
+      }
+    },
+    "expandedKeys": []
+  },
+  "Health/ศุนย์สุขภาพ และ โรงพยาบาล.md": {
+    "scroll": 0.13127413127413126,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 1
+      },
+      "to": {
+        "line": 9,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Google sheet website.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 68,
+        "ch": 53
+      },
+      "to": {
+        "line": 68,
+        "ch": 53
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/Obsidian theme Setting.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 2
+      },
+      "to": {
+        "line": 7,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "การ trade.md": {
+    "scroll": 13.492753623188406,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/อาชีพด้าน AI.md": {
+    "scroll": 21.168039538714993,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Technical Indicators.md": {
+    "scroll": 97.24027834629554,
+    "cursor": {
+      "from": {
+        "line": 103,
+        "ch": 286
+      },
+      "to": {
+        "line": 103,
+        "ch": 286
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Agent.md": {
+    "scroll": 41.19655797101449,
+    "cursor": {
+      "from": {
+        "line": 52,
+        "ch": 0
+      },
+      "to": {
+        "line": 52,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Personal AI Agent.md": {
+    "scroll": 51.608695652173914,
+    "cursor": {
+      "from": {
+        "line": 71,
+        "ch": 0
+      },
+      "to": {
+        "line": 77,
+        "ch": 34
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pygame.md": {
+    "scroll": 20.931087289433385,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 9
+      },
+      "to": {
+        "line": 8,
+        "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/บทความ Pygame.md": {
+    "scroll": 23.28985507246377,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/การแปลง Python เป็น EXE.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 80
+      },
+      "to": {
+        "line": 3,
+        "ch": 80
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/การแปลง Python เป็น Web app.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/ไว้ส่งทาง Line.md": {
+    "scroll": 2.155937293612194,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 130
+      },
+      "to": {
+        "line": 18,
+        "ch": 130
+      }
+    },
+    "expandedKeys": []
+  },
+  "Python/PyScript/PyScript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 63
+      },
+      "to": {
+        "line": 12,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/ความรู้สามระดับ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 23
+      },
+      "to": {
+        "line": 3,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/การพูด การสื่อสาร.md": {
+    "scroll": 14.842391304347826,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 0
+      },
+      "to": {
+        "line": 30,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/ขลุ่ย/หูฟัง Haylou Earhook 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 112
+      },
+      "to": {
+        "line": 11,
+        "ch": 112
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/ขลุ่ย/หูฟัง ระบบเสียง.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 2
+      },
+      "to": {
+        "line": 62,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/หูฟัง ระบบเสียง.md": {
+    "scroll": 54.9843492586491,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 32
+      },
+      "to": {
+        "line": 49,
+        "ch": 32
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Python แทน Autohotkey (pyauto).md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 16
+      },
+      "to": {
+        "line": 7,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Quick Menu.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 190,
+        "ch": 189
+      },
+      "to": {
+        "line": 190,
+        "ch": 189
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Pyauto ใช้ Python แทน Autohotkey.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 2
+      },
+      "to": {
+        "line": 8,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/PyAuto ใช้ Python แทน Autohotkey.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 60
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/ใช้ Python แทน autohotkey.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 40
+      },
+      "to": {
+        "line": 4,
+        "ch": 40
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/100 Million Dollar Offers.md": {
+    "scroll": 19.36937463471654,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 162
+      },
+      "to": {
+        "line": 22,
+        "ch": 162
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Flet study.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 60
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/บทความ แนะนำ Flet.md": {
+    "scroll": 20.81159420289855,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 25
+      },
+      "to": {
+        "line": 6,
+        "ch": 25
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/NiceGui.md": {
+    "scroll": 3.004530477759473,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 33
+      },
+      "to": {
+        "line": 18,
+        "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/เพลงสำหรับหูฟัง.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 53
+      },
+      "to": {
+        "line": 4,
+        "ch": 53
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/การทำ Menu Web App เป็นธุรกิจ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 65
+      },
+      "to": {
+        "line": 2,
+        "ch": 65
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/PWA Note (Progressive Web App).md": {
+    "scroll": 83.1802536231884,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/โปรแกรม Menu.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 16
+      },
+      "to": {
+        "line": 0,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/โปรแกรม Menu สั่งอาหาร.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 161
+      },
+      "to": {
+        "line": 5,
+        "ch": 161
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/NiceGui food order web app.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 55
+      },
+      "to": {
+        "line": 2,
+        "ch": 55
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Exercism Note.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 2
+      },
+      "to": {
+        "line": 5,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/readme markdown.md": {
+    "scroll": 74.96667685723021,
+    "cursor": {
+      "from": {
+        "line": 40,
+        "ch": 4
+      },
+      "to": {
+        "line": 40,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/help md.md": {
+    "scroll": 114.28034420289855,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "ศาสนา/บวชที่บ้าน.md": {
+    "scroll": 2.0988805970149254,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 137
+      },
+      "to": {
+        "line": 2,
+        "ch": 137
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/Virtual Environments.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/Language Selection.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 125
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/การทำ Menu สั่งอาหาร Web App เป็นธุรกิจ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 43
+      },
+      "to": {
+        "line": 8,
+        "ch": 43
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/การออกโปรแกรม Menu สั่งอาหาร.md": {
+    "scroll": 27.862850082372322,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 11
+      },
+      "to": {
+        "line": 4,
+        "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Temp.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 58,
+        "ch": 0
+      },
+      "to": {
+        "line": 62,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "แนวทางในการเรียน Python/NiceGUI.md": {
+    "scroll": 91.72619047619048,
+    "cursor": {
+      "from": {
+        "line": 104,
+        "ch": 2
+      },
+      "to": {
+        "line": 104,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/เทคโนโลยีรถไฟฟ้าที่น่ารอ.md": {
+    "scroll": 0.7022222222222222,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Menu app note.md": {
+    "scroll": 13.651721014492754,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 32
+      },
+      "to": {
+        "line": 29,
+        "ch": 32
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Icecream print debug.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 30
+      },
+      "to": {
+        "line": 8,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/คำแนะนำจาก ChatGPT.md": {
+    "scroll": 32.508605072463766,
+    "cursor": {
+      "from": {
+        "line": 303,
+        "ch": 157
+      },
+      "to": {
+        "line": 303,
+        "ch": 157
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/คำแนะนำจาก Claude Opus 5.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/คำแนะนำจาก DeepSeek.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 2
+      },
+      "to": {
+        "line": 16,
+        "ch": 92
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/คำแนะนำจาก Gemini.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 78
+      },
+      "to": {
+        "line": 6,
+        "ch": 78
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Design Pattern ที่ควรรู้.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Database ด้วย SQLAlchemy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 148
+      },
+      "to": {
+        "line": 2,
+        "ch": 148
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Food Order App.md": {
+    "scroll": 95.63858695652173,
+    "cursor": {
+      "from": {
+        "line": 115,
+        "ch": 23
+      },
+      "to": {
+        "line": 115,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/SQLModel sample.md": {
+    "scroll": 35.077445652173914,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 286
+      },
+      "to": {
+        "line": 5,
+        "ch": 286
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Python separation of concern (SOC).md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 39,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Python and Library.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Pyauto/Web app ง่ายขึ้นด้วย Python.md": {
+    "scroll": 26.159420289855074,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 50
+      },
+      "to": {
+        "line": 10,
+        "ch": 50
+      }
+    },
+    "expandedKeys": []
+  },
+  "ดลตรี/ขลุ่ย/เพียงคำเดียว.md": {
+    "scroll": 1.5942028985507246,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Food order database.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/Food order database design.md": {
+    "scroll": 101.67009884678748,
+    "cursor": {
+      "from": {
+        "line": 119,
+        "ch": 0
+      },
+      "to": {
+        "line": 119,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/Food order app learning road map.md": {
+    "scroll": 142.98928024502297,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/ป้องกัน Web app error ตอนเลิก.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "PWA/URL Routing.md": {
+    "scroll": 669.7518115942029,
+    "cursor": {
+      "from": {
+        "line": 663,
+        "ch": 0
+      },
+      "to": {
+        "line": 663,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/คำถามถึง AI.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 2
+      },
+      "to": {
+        "line": 16,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/NiceGUI และ ตัวอย่าง.md": {
+    "scroll": 0.5866666666666667,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Idea/New World Order.md": {
+    "scroll": 21.202898550724637,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 37,
+        "ch": 159
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI/Python/Gemini AI Studio API Key.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 53
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "To do to buy/Git Branching & Merging Process.md": {
+    "scroll": 140.50340136054422,
+    "cursor": {
+      "from": {
+        "line": 161,
+        "ch": 0
+      },
+      "to": {
+        "line": 161,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Welcome.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "FoodOrderApp/Todo.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "FoodOrderApp/Update Knowledge base.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 28
+      },
+      "to": {
+        "line": 1,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  }
+}

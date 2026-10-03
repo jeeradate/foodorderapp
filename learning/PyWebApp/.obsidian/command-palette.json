@@ -1,0 +1,16 @@
+{
+  "pinned": [
+    "app:open-help",
+    "editor:toggle-bold",
+    "editor:toggle-highlight",
+    "editor:toggle-checklist-status",
+    "editor:toggle-numbered-list",
+    "editor:cycle-list-checklist",
+    "editor:toggle-italics",
+    "editor:set-heading",
+    "editor:set-heading-0",
+    "editor:set-heading-1",
+    "editor:set-heading-2",
+    "editor:insert-tag"
+  ]
+}
