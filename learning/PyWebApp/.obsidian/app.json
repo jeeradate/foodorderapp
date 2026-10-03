@@ -12,5 +12,7 @@
   },
   "promptDelete": false,
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
