@@ -8,6 +8,7 @@ Food Order App เป็นระบบเว็บสำหรับบริ�
 
 ## แนวทางในการพัฒนา
 - โครงการนี้อยู่ที่ https://github.com/jeeradate/foodorderapp
+- สามารถดูบนเว็บได้แล้ว เพราะ Deploy แล้วทั้งๆ ที่ไม่เสร็จ https://foodorderapp-nwfx.onrender.com/
 - ขบวนการพัฒนาทั้งหมดจะใช้ Git Branching & Merging Process
 - โดยจะสร้าง Branch ใน Git/Github เมื่อจะค่อยๆ เพิ่มความสามารถโปรแกรม 
 - โดยใช้ AI โดยเฉพาะ Gemini Gems ที่รู้โครงสร้างจาก File นี้ เขียนทีละส่วนให้ 

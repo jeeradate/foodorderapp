@@ -6,9 +6,8 @@ Command to run locally: python main.py
 
 from pathlib import Path
 import sys
-from typing import NoReturn
 
-from icecream import ic
+
 from nicegui import ui
 
 from food_app.core.config import settings
@@ -94,7 +93,7 @@ def admin_route() -> None:
 @ui.page("/test")
 def test_route() -> None:
     """Route for system test page."""
-    ic("Navigating to test page")
+
     render_test_page()
 
 

@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/PyWebApp/Deploy/Deploy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploy"
+              "title": "README"
             }
           }
         ],
@@ -94,7 +94,7 @@
       {
         "id": "1daac0c1e6058637",
         "type": "tabs",
-        "dimension": 71.50997150997152,
+        "dimension": 71.5099715099715,
         "children": [
           {
             "id": "c27417155c2eeb8f",
@@ -116,7 +116,7 @@
       {
         "id": "6bd46d09fdcb1f46",
         "type": "tabs",
-        "dimension": 28.49002849002849,
+        "dimension": 28.490028490028486,
         "children": [
           {
             "id": "c10d90b7292c995c",
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/PyWebApp/Deploy/Deploy.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/PyWebApp/Deploy/Deploy.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,9 +293,9 @@
   },
   "active": "855bb2a82563724a",
   "lastOpenFiles": [
+    "learning/PyWebApp/Deploy/Deploy.md",
     "render.yaml",
     "learning/PyWebApp/Welcome.md",
-    "learning/PyWebApp/Deploy/Deploy.md",
     "learning/PyWebApp/Deploy",
     "learning/PyWebApp/Mindset/Mindset.md",
     "learning/PyWebApp/NiceGUI/NiceGUI.md",
@@ -329,7 +329,6 @@
     "FoodOrderApp/Todo.md",
     "FoodOrderApp/Food order app learning road map.md",
     "FoodOrderApp",
-    "Python",
     "FoodOrderDatabaseDesign.canvas",
     "Resource/Pasted image 20260806090314.png",
     "first canvas.canvas",
