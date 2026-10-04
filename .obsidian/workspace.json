@@ -26,6 +26,7 @@
           {
             "id": "6261089b3910a275",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,12 +34,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Todo"
             }
+          },
+          {
+            "id": "28be43eb055d45bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/PyWebApp/NiceGUI/NiceGUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NiceGUI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,6 +66,7 @@
       {
         "id": "1daac0c1e6058637",
         "type": "tabs",
+        "dimension": 71.50997150997152,
         "children": [
           {
             "id": "c27417155c2eeb8f",
@@ -71,6 +88,7 @@
       {
         "id": "6bd46d09fdcb1f46",
         "type": "tabs",
+        "dimension": 28.49002849002849,
         "children": [
           {
             "id": "c10d90b7292c995c",
@@ -135,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/PyWebApp/FoodOrderApp/Todo.md",
+                "file": "learning/PyWebApp/NiceGUI/NiceGUI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -215,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/PyWebApp/FoodOrderApp/Todo.md",
+                "file": "learning/PyWebApp/NiceGUI/NiceGUI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,18 +263,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6261089b3910a275",
+  "active": "28be43eb055d45bc",
   "lastOpenFiles": [
+    "learning/PyWebApp/NiceGUI/ui.run reload.md",
+    "readme_in_gems.md",
+    "learning/PyWebApp/GIT_Github/การ Download เฉพาะส่วนความรู้ที่เป็น Obsidian Vault.md",
+    "learning/PyWebApp/GIT_Github/Git Branching & Merging Process.md",
     "food_app/ui/home.py",
-    "learning/PyWebApp/FoodOrderApp/FoodOrderApp.md",
+    "learning/PyWebApp/NiceGUI/NiceGUI.md",
+    "food_app/core/__pycache__/config.cpython-314.pyc",
+    "food_app/core/config.py",
+    "testmain.py",
     "learning/PyWebApp/Welcome.md",
-    "README.md",
+    "oldReadme.md.md",
+    "food_app/ui/pages/__pycache__/test_page.cpython-314.pyc",
+    "learning/PyWebApp/Mindset/Deep Work VS Shallow work.md",
+    "learning/PyWebApp/GIT_Github/GIT_Github.md",
+    "learning/PyWebApp/GIT_Github/Git_Github_VSCode.md",
+    "learning/PyWebApp/Mindset/Mindset.md",
+    "learning/PyWebApp/Mindset/Grit VS Talent.md",
+    "learning/PyWebApp/Mindset/Minset.md",
+    "learning/PyWebApp/Mindset",
     "learning/PyWebApp/FoodOrderApp/Todo.md",
+    "food_app/ui/pages/test_page.py",
+    "learning/PyWebApp/FoodOrderApp/FoodOrderApp.md",
+    "README.md",
     "playground/README.md",
     "food_order_app_logo.jpg",
     "learning/PyWebApp/SQLModel/SQLModel.md",
     "learning/PyWebApp/Python/Python.md",
-    "readme_in_gems.md",
     "FoodOrderApp/FoodOrderApp.md",
     "Welcome.md",
     "FoodOrderApp/Update Knowledge base.md",
@@ -264,28 +299,11 @@
     "FoodOrderApp/Food order app learning road map.md",
     "GIT_Github/GIT_Github.md",
     "GIT_Github/การ Download เฉพาะส่วนความรู้ที่เป็น Obsidian Vault.md",
-    "GIT_Github/Git Branching & Merging Process.md",
-    "GIT_Github/Git_Github_VSCode.md",
-    "Python/Python.md",
-    "VSCode/VSCode.md",
-    "SQLModel/SQLModel.md",
-    "NiceGUI/NiceGUI.md",
     "FoodOrderApp",
     "Python",
     "SQLModel",
-    "GIT_Github",
-    "VSCode",
-    "NiceGUI",
-    "To do to buy/Git Branching & Merging Process.md",
-    "To do to buy/Todo.md",
-    "PWA/URL Routing.md",
-    "ดลตรี/ขลุ่ย/พรปีใหม่.md",
     "FoodOrderDatabaseDesign.canvas",
-    "แนวทางในการเรียน Python",
     "Resource/Pasted image 20260806090314.png",
-    "AI/Python/Pyauto",
-    "Python/PyScript",
-    "Python",
     "first canvas.canvas",
     "Resource/การคำนวนจำนวนแผง.jpg",
     "Resource/Pasted image 20260513105152.png",

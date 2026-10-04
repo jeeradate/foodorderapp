@@ -2674,14 +2674,14 @@
     "expandedKeys": []
   },
   "learning/PyWebApp/Welcome.md": {
-    "scroll": 0,
+    "scroll": 10.275297619047619,
     "cursor": {
       "from": {
-        "line": 20,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 20,
+        "line": 22,
         "ch": 0
       }
     },
@@ -2748,11 +2748,179 @@
     "cursor": {
       "from": {
         "line": 3,
-        "ch": 33
+        "ch": 95
       },
       "to": {
         "line": 3,
-        "ch": 33
+        "ch": 95
+      }
+    },
+    "expandedKeys": []
+  },
+  "MindSet/Mindset.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Mindset/Mindset.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/Mindset/Mindset.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 1
+      },
+      "to": {
+        "line": 3,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/Mindset/Deep Work VS Shallow work.md": {
+    "scroll": 18.460740072202167,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/Mindset/Grit VS Talent.md": {
+    "scroll": 0.9779411764705882,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 105
+      },
+      "to": {
+        "line": 24,
+        "ch": 105
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/GIT_Github/GIT_Github.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/GIT_Github/Git_Github_VSCode.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/GIT_Github/Git Branching & Merging Process.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "readme_in_gems.md": {
+    "scroll": 636.3452380952381,
+    "cursor": {
+      "from": {
+        "line": 647,
+        "ch": 0
+      },
+      "to": {
+        "line": 647,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "oldReadme.md.md": {
+    "scroll": 624.2636054421769,
+    "cursor": {
+      "from": {
+        "line": 647,
+        "ch": 0
+      },
+      "to": {
+        "line": 647,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/NiceGUI/NiceGUI.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/NiceGUI/ui.run reload.md": {
+    "scroll": 146.90192743764172,
+    "cursor": {
+      "from": {
+        "line": 170,
+        "ch": 3
+      },
+      "to": {
+        "line": 170,
+        "ch": 3
       }
     },
     "expandedKeys": []
