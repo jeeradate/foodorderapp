@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "solar",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.032038691261687,
+  "scale": 1.0320386912616846,
   "close": false
 }

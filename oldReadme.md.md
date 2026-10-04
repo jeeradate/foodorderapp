@@ -1,4 +1,4 @@
-```markdown
+
 # 📘 Architecture Blueprint & Knowledge Guide: Food Order App
 > **Stack:** Python 3.11+ | SQLModel | NiceGUI | SQLite  
 > **เป้าหมาย:** สรุปหลักการออกแบบระบบ (System Design), โครงสร้างโปรเจกต์ (Project Structure), ทฤษฎีที่ต้องรู้ และ Source Code ฉบับ Refactored สมบูรณ์
