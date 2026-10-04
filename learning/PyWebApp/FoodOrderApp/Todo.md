@@ -1,7 +1,7 @@
 [Welcome](../Welcome.md)
 ## On Going
 - [Update Knowledge base](Update%20Knowledge%20base.md) ทำ Knowledge base นี้ให้สมบูรณ์
-- เริ่มให้ AI เขียน Feature ใหม่ๆ
+- เรียนรู้และทำความเข้าใจโปรแกรม ปัจจุบัน แล้วให้ AI เขียน Feature ใหม่ๆ ให้เพราะ Git พร้อมแล้ว
 
 
 ## Done

@@ -4,6 +4,7 @@
 สั่งรันโปรแกรมด้วยคำสั่ง: python main.py
 """
 
+from icecream import ic
 from pathlib import Path
 import sys
 
@@ -12,12 +13,16 @@ from food_app.core.database import create_db_and_tables
 from food_app.ui.components import render_header
 from food_app.ui.pages.admin_page import render_admin_page
 from food_app.ui.pages.customer_page import render_customer_page
+from food_app.ui.pages.test_page import render_test_page
+from food_app.core.config import settings
+
 
 # ---------------------------------------------------------
 # Set Python Path ให้ชี้มาที่ Root Directory ของโปรเจกต์
 # เพื่อป้องกันปัญหา ModuleNotFoundError / reportMissingImports
 # ---------------------------------------------------------
 ROOT_DIR: Path = Path(__file__).resolve().parent
+ic(ROOT_DIR)
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
@@ -37,7 +42,7 @@ def home_page() -> None:
             "text-3xl font-bold text-gray-800 mt-4"
         )
         ui.label("กรุณาเลือกหน้าจอที่ต้องการจากปุมกลมด้านซ้ายบนสุด").classes("text-gray-600 mb-6")
-
+        ui.button("test page", on_click=lambda: ui.navigate.to("/test"))
         # Cards ตัวเลือกสำหรับนำทางไปยังหน้าต่างๆ
         with ui.row().classes("w-full gap-6 justify-center"):
             # Card หน้าสั่งอาหารลูกค้า
@@ -85,18 +90,28 @@ def admin_route() -> None:
     render_admin_page()
 
 
+@ui.page("/test")
+def test_route() -> None:
+    ic()
+    render_test_page()
+
+
 # =========================================================
 # 2. Application Startup
 # =========================================================
+def main() -> None:
+    ui.run(
+        title=settings.APP_TITLE,
+        host=settings.HOST,
+        port=settings.PORT,
+        reload=settings.DEBUG_MODE,  # 👈 กำหนดค่าตาม Environment Settings
+        favicon="🍳",
+    )
+
 
 if __name__ in {"__main__", "__mp_main__"}:
     # สร้างตารางใน Database SQLite หากยังไม่มีไฟล์ฐานข้อมูล
     create_db_and_tables()
 
     # สั่งเริ่มการทำงานของ NiceGUI Server
-    ui.run(
-        title="Food Order App",
-        port=8081,
-        reload=False,
-        show=True,
-    )
+    main()
