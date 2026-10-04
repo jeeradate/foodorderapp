@@ -1,11 +1,12 @@
-"""Main Application Entry Point
+"""Main Application Entry Point for Food Order App.
 
-ไฟล์หลักสำหรับกำหนด Page Routes และเริ่มต้นรัน NiceGUI Server
-สั่งรันโปรแกรมด้วยคำสั่ง: python main.py
+Central file defining Page Routes and launching the NiceGUI Web Server.
+Command to run locally: python main.py
 """
 
 from pathlib import Path
 import sys
+from typing import NoReturn
 
 from icecream import ic
 from nicegui import ui
@@ -18,11 +19,10 @@ from food_app.ui.pages.customer_page import render_customer_page
 from food_app.ui.pages.test_page import render_test_page
 
 # ---------------------------------------------------------
-# Set Python Path ให้ชี้มาที่ Root Directory ของโปรเจกต์
-# เพื่อป้องกันปัญหา ModuleNotFoundError / reportMissingImports
+# Set Python Path to Root Directory
+# Ensures proper package import resolution across environments
 # ---------------------------------------------------------
 ROOT_DIR: Path = Path(__file__).resolve().parent
-ic(ROOT_DIR)
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
@@ -34,19 +34,19 @@ if str(ROOT_DIR) not in sys.path:
 
 @ui.page("/")
 def home_page() -> None:
-    """หน้าหลัก (Navigation Hub / Main Menu) สำหรับเลือกเปิดไปยังหน้าต่างๆ"""
+    """Navigation Hub / Main Menu for role selection."""
     render_header("หน้าหลัก (Main Menu)")
 
     with ui.column().classes("w-full max-w-4xl mx-auto p-6 items-center gap-6"):
         ui.label("🎯 ยินดีต้อนรับสู่ระบบ Food Order App").classes(
             "text-3xl font-bold text-gray-800 mt-4"
         )
-        ui.label("กรุณาเลือกหน้าจอที่ต้องการจากปุมกลมด้านซ้ายบนสุด").classes("text-gray-600 mb-6")
-        ui.button("test page", on_click=lambda: ui.navigate.to("/test"))
+        ui.label("กรุณาเลือกหน้าจอที่ต้องการจากปุ่มเมนูด้านล่าง").classes("text-gray-600 mb-6")
+        ui.button("Test Page", on_click=lambda: ui.navigate.to("/test"))
 
-        # Cards ตัวเลือกสำหรับนำทางไปยังหน้าต่างๆ
+        # Role Navigation Cards
         with ui.row().classes("w-full gap-6 justify-center"):
-            # Card หน้าสั่งอาหารลูกค้า
+            # Customer Card
             with ui.card().classes(
                 "w-80 p-6 flex flex-col items-center hover:shadow-lg transition-shadow cursor-pointer border"
             ):
@@ -61,7 +61,7 @@ def home_page() -> None:
                     on_click=lambda: ui.navigate.to("/customer"),
                 ).classes("w-full")
 
-            # Card หน้า Admin จัดการ Master Data
+            # Admin Card
             with ui.card().classes(
                 "w-80 p-6 flex flex-col items-center hover:shadow-lg transition-shadow cursor-pointer border"
             ):
@@ -81,40 +81,40 @@ def home_page() -> None:
 
 @ui.page("/customer")
 def customer_route() -> None:
-    """Route สำหรับหน้าสั่งอาหารสำหรับลูกค้า"""
+    """Route for customer food ordering interface."""
     render_customer_page()
 
 
 @ui.page("/admin/master")
 def admin_route() -> None:
-    """Route สำหรับหน้าผู้ดูแลระบบจัดการ Master Data"""
+    """Route for system administrator data management interface."""
     render_admin_page()
 
 
 @ui.page("/test")
 def test_route() -> None:
-    """Route สำหรับหน้าทดสอบระบบ"""
-    ic()
+    """Route for system test page."""
+    ic("Navigating to test page")
     render_test_page()
 
 
 # =========================================================
-# 2. Application Startup
+# 2. Application Startup Logic
 # =========================================================
-def main() -> None:
-    """เริ่มต้นรัน NiceGUI Web Server ตามค่า Configuration ที่กำหนดใน settings"""
+def start_server() -> None:
+    """Launches NiceGUI Web Server with settings provided from configuration."""
     ui.run(
         title=settings.APP_TITLE,
         host=settings.HOST,
         port=settings.PORT,
-        reload=settings.DEBUG_MODE,  # กำหนดค่าตาม Environment Settings
+        reload=settings.DEBUG_MODE,
         favicon="🍳",
     )
 
 
 if __name__ in {"__main__", "__mp_main__"}:
-    # สร้างตารางใน Database SQLite หากยังไม่มีไฟล์ฐานข้อมูล
+    # Initialize SQLModel Database Tables
     create_db_and_tables()
 
-    # สั่งเริ่มการทำงานของ NiceGUI Server
-    main()
+    # Start NiceGUI Application
+    start_server()
