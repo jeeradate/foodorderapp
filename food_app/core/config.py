@@ -1,26 +1,50 @@
 """
-Module: food_app.core.config
-Description: Configuration settings for Food Order App using Pydantic / Environment Settings.
+Configuration module for Food Order App.
+
+Handles environment variables, application metadata, and database configuration settings.
+Uses Pydantic BaseSettings for type validation and environment variable parsing.
 """
 
-import os
-from typing import Final
+from pathlib import Path
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
-class Settings:
-    """Class สำหรับจัดการค่า Configuration ของ Application"""
+class Settings(BaseSettings):
+    """Application settings class using Pydantic BaseSettings.
 
-    APP_TITLE: Final[str] = "Food Order App"
-    HOST: Final[str] = os.getenv("HOST", "127.0.0.1")
-    PORT: Final[int] = int(os.getenv("PORT", "8080"))
+    Reads default configuration parameters or overrides them using environment variables (.env).
+    """
 
-    # เช็กว่าอยู่ในสถานะ Development หรือไม่ (Default เป็น True ถ้าไม่ได้กำหนด)
-    DEBUG_MODE: Final[bool] = os.getenv("DEBUG_MODE", "True").lower() in (
-        "true",
-        "1",
-        "t",
+    # Application Information
+    APP_TITLE: str = "Food Order App"
+    APP_VERSION: str = "0.1.0"
+
+    # Server & Environment Settings
+    HOST: str = "127.0.0.1"
+    PORT: int = 8080
+    DEBUG_MODE: bool = True
+
+    # Base Directory Structure
+    BASE_DIR: Path = Path(__file__).resolve().parent.parent.parent
+
+    # Database Configuration (SQLite default for local development)
+    DATABASE_FILE: str = "food_order_app.db"
+
+    @property
+    def DATABASE_URL(self) -> str:
+        """Dynamically constructs SQLite database URL connection string.
+
+        Returns:
+            str: Connection string for SQLModel engine.
+        """
+        db_path: Path = self.BASE_DIR / self.DATABASE_FILE
+        return f"sqlite:///{db_path}"
+
+    # Pydantic Configuration to support .env file loading
+    model_config = SettingsConfigDict(
+        env_file=".env", env_file_encoding="utf-8", extra="ignore"
     )
 
 
-# Export Instance ของ Settings เพื่อนำไปใช้งานในโมดูลอื่น
-settings: Final[Settings] = Settings()
+# Instantiate single configuration instance for globally shared access
+settings: Settings = Settings()

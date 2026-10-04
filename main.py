@@ -4,18 +4,18 @@
 สั่งรันโปรแกรมด้วยคำสั่ง: python main.py
 """
 
-from icecream import ic
 from pathlib import Path
 import sys
 
+from icecream import ic
 from nicegui import ui
+
+from food_app.core.config import settings
 from food_app.core.database import create_db_and_tables
 from food_app.ui.components import render_header
 from food_app.ui.pages.admin_page import render_admin_page
 from food_app.ui.pages.customer_page import render_customer_page
 from food_app.ui.pages.test_page import render_test_page
-from food_app.core.config import settings
-
 
 # ---------------------------------------------------------
 # Set Python Path ให้ชี้มาที่ Root Directory ของโปรเจกต์
@@ -43,6 +43,7 @@ def home_page() -> None:
         )
         ui.label("กรุณาเลือกหน้าจอที่ต้องการจากปุมกลมด้านซ้ายบนสุด").classes("text-gray-600 mb-6")
         ui.button("test page", on_click=lambda: ui.navigate.to("/test"))
+
         # Cards ตัวเลือกสำหรับนำทางไปยังหน้าต่างๆ
         with ui.row().classes("w-full gap-6 justify-center"):
             # Card หน้าสั่งอาหารลูกค้า
@@ -92,6 +93,7 @@ def admin_route() -> None:
 
 @ui.page("/test")
 def test_route() -> None:
+    """Route สำหรับหน้าทดสอบระบบ"""
     ic()
     render_test_page()
 
@@ -100,11 +102,12 @@ def test_route() -> None:
 # 2. Application Startup
 # =========================================================
 def main() -> None:
+    """เริ่มต้นรัน NiceGUI Web Server ตามค่า Configuration ที่กำหนดใน settings"""
     ui.run(
         title=settings.APP_TITLE,
         host=settings.HOST,
         port=settings.PORT,
-        reload=settings.DEBUG_MODE,  # 👈 กำหนดค่าตาม Environment Settings
+        reload=settings.DEBUG_MODE,  # กำหนดค่าตาม Environment Settings
         favicon="🍳",
     )
 
