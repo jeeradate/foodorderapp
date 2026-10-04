@@ -1,39 +1,41 @@
 # ==========================================
-# Virtual Environments (สภาพแวดล้อมจำลอง)
+# Python Environment & Byte-code
 # ==========================================
 .venv/
-
-
-# ==========================================
-# Python Cache Files (ไฟล์แคชชั่วคราวของ Python)
-# ==========================================
+venv/
+ENV/
+env/
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 
 # ==========================================
-# Experimental & Playground Folders (โฟลเดอร์ทดลองโค้ด)
+# Testing & Coverage
 # ==========================================
-playground/
-*.tmp.py
+.pytest_cache/
+.coverage
+htmlcov/
 
 # ==========================================
-# Environment Variables & Secrets (ไฟล์เก็บ รหัสผ่าน/API Keys)
+# Database & Secrets (SQLModel Local Files)
 # ==========================================
+*.db
+*.sqlite
+*.sqlite3
 .env
-.env.local
-*.secret
+.env.*
 
 # ==========================================
-# VSCode Settings & Local Cache
+# IDE & Editor Settings
 # ==========================================
 .vscode/
-*.code-workspace
+.idea/
 
 # ==========================================
-# Distribution / Packaging (ไฟล์ build ของ pyproject.toml)
+# Obsidian Vault Settings (Ignore Workspace States)
 # ==========================================
-build/
-dist/
-*.egg-info/
+# Ignore files that change dynamically on every note open/close
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-quiet-outline/markdown-states.json

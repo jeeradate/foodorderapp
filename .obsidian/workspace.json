@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/PyWebApp/NiceGUI/NiceGUI.md",
+                "file": "learning/PyWebApp/Mindset/Mindset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NiceGUI"
+              "title": "Mindset"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/PyWebApp/NiceGUI/NiceGUI.md",
+                "file": "learning/PyWebApp/Mindset/Mindset.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/PyWebApp/NiceGUI/NiceGUI.md",
+                "file": "learning/PyWebApp/Mindset/Mindset.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,26 +266,26 @@
   "active": "28be43eb055d45bc",
   "lastOpenFiles": [
     "learning/PyWebApp/NiceGUI/ui.run reload.md",
+    "learning/PyWebApp/NiceGUI/NiceGUI.md",
+    "oldReadme.md.md",
+    "learning/PyWebApp/Mindset/Mindset.md",
+    "learning/PyWebApp/Mindset/Grit VS Talent.md",
+    "learning/PyWebApp/Mindset/Deep Work VS Shallow work.md",
+    "learning/PyWebApp/Mindset",
+    "food_app/ui/pages/test_page.py",
+    "food_app/core/config.py",
     "readme_in_gems.md",
     "learning/PyWebApp/GIT_Github/การ Download เฉพาะส่วนความรู้ที่เป็น Obsidian Vault.md",
     "learning/PyWebApp/GIT_Github/Git Branching & Merging Process.md",
     "food_app/ui/home.py",
-    "learning/PyWebApp/NiceGUI/NiceGUI.md",
     "food_app/core/__pycache__/config.cpython-314.pyc",
-    "food_app/core/config.py",
     "testmain.py",
     "learning/PyWebApp/Welcome.md",
-    "oldReadme.md.md",
     "food_app/ui/pages/__pycache__/test_page.cpython-314.pyc",
-    "learning/PyWebApp/Mindset/Deep Work VS Shallow work.md",
     "learning/PyWebApp/GIT_Github/GIT_Github.md",
     "learning/PyWebApp/GIT_Github/Git_Github_VSCode.md",
-    "learning/PyWebApp/Mindset/Mindset.md",
-    "learning/PyWebApp/Mindset/Grit VS Talent.md",
     "learning/PyWebApp/Mindset/Minset.md",
-    "learning/PyWebApp/Mindset",
     "learning/PyWebApp/FoodOrderApp/Todo.md",
-    "food_app/ui/pages/test_page.py",
     "learning/PyWebApp/FoodOrderApp/FoodOrderApp.md",
     "README.md",
     "playground/README.md",
@@ -298,7 +298,6 @@
     "FoodOrderApp/Todo.md",
     "FoodOrderApp/Food order app learning road map.md",
     "GIT_Github/GIT_Github.md",
-    "GIT_Github/การ Download เฉพาะส่วนความรู้ที่เป็น Obsidian Vault.md",
     "FoodOrderApp",
     "Python",
     "SQLModel",

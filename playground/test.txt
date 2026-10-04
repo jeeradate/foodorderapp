@@ -1,0 +1,9 @@
+my_package/
+│
+├── __init__.py
+├── parent_module.py
+├── main.py
+│
+└── subfolder/
+    ├── __init__.py
+    └── child_module.py
