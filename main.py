@@ -42,7 +42,7 @@ def home_page() -> None:
             "text-3xl font-bold text-gray-800 mt-4"
         )
         ui.label("กรุณาเลือกหน้าจอที่ต้องการจากปุมกลมด้านซ้ายบนสุด").classes("text-gray-600 mb-6")
-        ui.button("test page", on_click=lambda: ui.navigate.to("/test"))
+        ui.button(" test test page", on_click=lambda: ui.navigate.to("/test"))
 
         # Cards ตัวเลือกสำหรับนำทางไปยังหน้าต่างๆ
         with ui.row().classes("w-full gap-6 justify-center"):
