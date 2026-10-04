@@ -2677,11 +2677,11 @@
     "scroll": 6.767361111111111,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 21,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 21,
         "ch": 0
       }
     },
@@ -2921,6 +2921,34 @@
       "to": {
         "line": 170,
         "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/Deploy/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "learning/PyWebApp/Deploy/Deploy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 23
+      },
+      "to": {
+        "line": 1,
+        "ch": 23
       }
     },
     "expandedKeys": []

@@ -17,6 +17,7 @@
 - [GIT_Github](GIT_Github/GIT_Github.md) การ Git และ Github 
 - [SQLModel](SQLModel/SQLModel.md) การใช้ Database ฝ่านทาง Library SQLModel
 - [NiceGUI](NiceGUI/NiceGUI.md) การทำ UI ด้วย library NiceGUI
+- [Deploy](Deploy/Deploy.md)
 - [Mindset](Mindset/Mindset.md) กรอบความคิด ทัศนคติ ต่องาน
 
 

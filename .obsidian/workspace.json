@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/PyWebApp/Mindset/Mindset.md",
+                "file": "learning/PyWebApp/Deploy/Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mindset"
+              "title": "Deploy"
             }
           }
         ],
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/PyWebApp/Mindset/Mindset.md",
+                "file": "learning/PyWebApp/Deploy/Deploy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/PyWebApp/Mindset/Mindset.md",
+                "file": "learning/PyWebApp/Deploy/Deploy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,9 +293,12 @@
   },
   "active": "855bb2a82563724a",
   "lastOpenFiles": [
+    "render.yaml",
     "learning/PyWebApp/Welcome.md",
-    "learning/PyWebApp/NiceGUI/NiceGUI.md",
+    "learning/PyWebApp/Deploy/Deploy.md",
+    "learning/PyWebApp/Deploy",
     "learning/PyWebApp/Mindset/Mindset.md",
+    "learning/PyWebApp/NiceGUI/NiceGUI.md",
     "learning/PyWebApp/NiceGUI/ui.run reload.md",
     "oldReadme.md.md",
     "learning/PyWebApp/Mindset/Grit VS Talent.md",
@@ -325,10 +328,8 @@
     "FoodOrderApp/Update Knowledge base.md",
     "FoodOrderApp/Todo.md",
     "FoodOrderApp/Food order app learning road map.md",
-    "GIT_Github/GIT_Github.md",
     "FoodOrderApp",
     "Python",
-    "SQLModel",
     "FoodOrderDatabaseDesign.canvas",
     "Resource/Pasted image 20260806090314.png",
     "first canvas.canvas",
